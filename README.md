@@ -5,11 +5,11 @@ The map of human hematopoietic stem cell (HSC) ontogeny is incomplete due to a l
 
 ## Scripts, R objects and metadata
 The R script, R objects and the metadata file are sahred via google drive due to their size. The metdata file contains the cell barcode, the original sample identity, the Seurat cluster identity, the number of genes and UMIs detected, and the percentage of mitochodrial expresion. <br/>
-These files can be accessed [here.](https://drive.google.com/drive/folders/1x91UJ_Ka_OXnLsNKqu2bo513Gdvg5fpv) <br/>
+These files can be accessed [here.](https://drive.google.com/drive/folders/1bsl4HMPh0ZZb9iAZTXD5lVY56sNj_MCm?usp=sharing) <br/>
 The "inventory.csv" file in this GitHub page associates the folder names on Google Drive to the figure numbers in the manuscript.
 
 ## ACTINN Reference dataset
-The expression matrix and the celltype annotation of the ACTINN Reference dataset can be acessed  [here.]()
+The expression matrix and the celltype annotation of the ACTINN Reference dataset can be acessed  [here.](https://drive.google.com/drive/folders/1NN5oISFii2vFhYuWZMNzanj6iLIpsZzS?usp=sharing)
 
 ## Loupe files for the spatial-seq samples
-We used the loupe files to visualize gene expression in the sptial-seq samples. The loupe files can be acessed  [here.]()
+We used the loupe files to visualize gene expression in the sptial-seq samples. The loupe files can be acessed  [here.](https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing)
