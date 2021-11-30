@@ -1,0 +1,40 @@
+Sample names,Figure number,#
+AGM-CS14/4.5w,"EDFig2, EDFig3",1
+Umbilical C-CS14/4.5w,EDFig2,2
+Head-CS14/4.5w,EDFig2,3
+Heart-CS14/4.5w,EDFig2,4
+Liver-CS14/4.5w,EDFig2,5
+Placenta-CS14/4.5w,EDFig2,6
+Vitelline V-CS14/4.5w,EDFig2,7
+YolkSac-CS14/4.5w,EDFig2,8
+AGM-CS15a/5w,EDFig3,9
+AGM-CS15b/5w,EDFig3,10
+AGM-CS17/6w,EDFig3,11
+Liver-CS15b/5w,EDFig3,12
+Liver-CS17/6w,EDFig3,13
+Liver-8w,EDFig3,14
+Liver-11w,EDFig3,15
+Liver-15w,EDFig3,16
+AGM_CS14-15,"Fig1 main, EDFig1, EDFig6",17
+AGM_CS14-15 RUNX1+,EDFig1,18
+Liver_CS14 RUNX1+,EDFig2,19
+AllTissues_CS14 RUNX1+_MAGIC,EDFig2,20
+AGM/Liver_CS14-15w RUNX1+,Fig2 main,21
+AGM/Liver_CS14-15w RUNX1+_MAGIC,EDFig3,22
+AGM/Liver/CordBlood_CS14-40w HLF+,Fig2 main,23
+AGM/Liver/CordBlood_CS14-40w HLF+_Pseudotime,EDFig3,24
+AGM_CS14-15 CDH5+/RUNX1+,"Fig3 main, EDFig4",25
+AGM_CS14-15 CDH5+/HSC_Pseudotime,EDFig4,26
+Visium capture area 1,"EDFig5, EDFig6",27
+Visium capture area 2,"EDFig5, EDFig6",28
+Visium capture area 4,"EDFig5, EDFig6",29
+Visium capture area 5,"EDFig5, EDFig6",30
+Visium capture area 6,"EDFig5, EDFig6",31
+Visium capture area 7,"EDFig5, EDFig6",32
+Visium capture area 8,"EDFig5, EDFig6",33
+AGM_CS10-17_YS_CS11 CDH5+/RUNX1+,EDFig7,34
+EB_A CDH5+/RUNX1+,"Fig4 main, EDFig9",35
+EB_B CDH5+/RUNX1+,"Fig4 main, EDFig9",36
+All tissues_CS14-40w HLF+,EDFig8,37
+All tissues_CS10-15w Hema&Ery,EDFig8,38
+All tissues_CS10-15w Hema&Ery_MAGIC,EDFig8,39
