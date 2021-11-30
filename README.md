@@ -8,7 +8,7 @@ The R script, R objects and the metadata file are shared via google drive due to
 These files can be accessed [here.](https://drive.google.com/drive/folders/1bsl4HMPh0ZZb9iAZTXD5lVY56sNj_MCm?usp=sharing) <br/>
 The [Inventory.csv](https://github.com/mikkolalab/Human-HSC-Ontogeny/blob/main/Inventory.csv) file in this GitHub page associates the folder names on Google Drive to the figure numbers in the manuscript.
 
-## Scripts for the score cards
+## Scripts for the scorecards
 There are many dotplots in the manuscript serving as scorecards to define cell identities. To make it easier to reproduce these cell types, the R script file containing the gene lists and codes to make the dotplots can be accessed [here.](https://github.com/mikkolalab/Human-HSC-Ontogeny/blob/main/scorecards%20scripts.R) The first four lines in the script describes how the dotplots can be plotted.
 
 ## ACTINN Reference dataset
