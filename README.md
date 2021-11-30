@@ -13,3 +13,6 @@ The expression matrix and the celltype annotation of the ACTINN Reference datase
 
 ## Loupe files for the spatial-seq samples
 We used the loupe files to visualize gene expression in the spatial-seq samples. The loupe files can be accessed  [here.](https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing)
+
+## Cluster marker genes for the spatial-seq samples
+We clustered the spatial-seq samples using the Seurat pipeline. The cluster markers for each section can be accessed. For each cluster in each section, we also performed cell type prediction analysis with the cluster marker genes using Enrichr. The enriched cell type predictions are saved in different tabs in the excel file. 
