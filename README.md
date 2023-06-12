@@ -15,7 +15,8 @@ There are many dotplots in the manuscript serving as scorecards to define cell i
 The expression matrix and the celltype annotation of the ACTINN Reference dataset can be accessed  [here.](https://drive.google.com/drive/folders/1NN5oISFii2vFhYuWZMNzanj6iLIpsZzS?usp=sharing)
 
 ## Loupe files for the spatial-seq samples
-We used the loupe files to visualize gene expression in the spatial-seq samples. The loupe files can be accessed  [here.](https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing) Spaceranger outputs for each sample can be accessed [here.] (https://drive.google.com/drive/folders/1hvC8zMkws_2n5lEDlqKe02S8EtTjnVQh?usp=drive_link)
+We used the loupe files to visualize gene expression in the spatial-seq samples. The loupe files can be accessed  [here.](https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing) <br/>
+Spaceranger outputs for each sample can be accessed [here.](https://drive.google.com/drive/folders/1hvC8zMkws_2n5lEDlqKe02S8EtTjnVQh?usp=drive_link)
 
 ## Cluster marker genes for the spatial-seq samples
 We clustered the spatial-seq samples using the Seurat pipeline. The cluster markers for each section can be accessed [here.](https://github.com/mikkolalab/Human-HSC-Ontogeny/tree/main/Visium%20samples%20cluster%20markers) For each cluster in each section, we also performed cell type prediction analysis with the cluster marker genes using Enrichr. The enriched cell type predictions are saved in different tabs in the excel file. 
