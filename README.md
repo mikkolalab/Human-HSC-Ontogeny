@@ -5,18 +5,18 @@ Human hematopoietic stem cell (HSC) ontogeny is poorly defined due to the inabil
 
 ## Scripts, R objects and metadata
 The R script, R objects and the metadata file are shared via google drive due to their size. The metadata file contains the cell barcode, the original sample identity, the Seurat cluster identity, the number of genes and UMIs detected, and the percentage of mitochondrial expression. <br/>
-These files can be accessed [here.](https://drive.google.com/drive/folders/1bsl4HMPh0ZZb9iAZTXD5lVY56sNj_MCm?usp=sharing) <br/>
+These files can be accessed [here.]([https://drive.google.com/drive/folders/1bsl4HMPh0ZZb9iAZTXD5lVY56sNj_MCm?usp=sharing](https://ucla.box.com/s/koqumtfbja7ll66ucffd291eexppro8c)) <br/>
 The [Inventory.csv](https://github.com/mikkolalab/Human-HSC-Ontogeny/blob/main/Inventory.csv) file in this GitHub page associates the folder names on Google Drive to the figure numbers in the manuscript.
 
 ## Scripts for the scorecards
 There are many dotplots in the manuscript serving as scorecards to define cell identities. To make it easier to reproduce these cell types, the R script file containing the gene lists and codes to make the dotplots can be accessed [here.](https://github.com/mikkolalab/Human-HSC-Ontogeny/blob/main/scorecards%20scripts.R) The first four lines in the script describes how the dotplots can be plotted.
 
 ## ACTINN Reference dataset
-The expression matrix and the celltype annotation of the ACTINN Reference dataset can be accessed  [here.](https://drive.google.com/drive/folders/1NN5oISFii2vFhYuWZMNzanj6iLIpsZzS?usp=sharing)
+The expression matrix and the celltype annotation of the ACTINN Reference dataset can be accessed  [here.]([https://drive.google.com/drive/folders/1NN5oISFii2vFhYuWZMNzanj6iLIpsZzS?usp=sharing](https://ucla.box.com/s/yfqb80kib79o7khkwo6byn3riby15fqg))
 
 ## Loupe files for the spatial-seq samples
-We used the loupe files to visualize gene expression in the spatial-seq samples. The loupe files can be accessed  [here.](https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing) <br/>
-Spaceranger outputs for each sample can be accessed [here.](https://drive.google.com/drive/folders/1hvC8zMkws_2n5lEDlqKe02S8EtTjnVQh?usp=drive_link)
+We used the loupe files to visualize gene expression in the spatial-seq samples. The loupe files can be accessed  [here.]([https://drive.google.com/drive/folders/17bnNG-cd0-4RXLImHYWX_mgaMMIvk_xF?usp=sharing](https://ucla.box.com/s/bouz1d1ysh3wp26aa785rxrcia3n13jq)) <br/>
+Spaceranger outputs for each sample can be accessed [here.]([https://drive.google.com/drive/folders/1hvC8zMkws_2n5lEDlqKe02S8EtTjnVQh?usp=drive_link](https://ucla.box.com/s/k8ag7wt41t4dirymswufsg6uu505iqzv))
 
 ## Cluster marker genes for the spatial-seq samples
 We clustered the spatial-seq samples using the Seurat pipeline. The cluster markers for each section can be accessed [here.](https://github.com/mikkolalab/Human-HSC-Ontogeny/tree/main/Visium%20samples%20cluster%20markers) For each cluster in each section, we also performed cell type prediction analysis with the cluster marker genes using Enrichr. The enriched cell type predictions are saved in different tabs in the excel file. 
